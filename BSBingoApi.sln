@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BSBingoApi", "BSBingoApi\BSBingoApi.csproj", "{0999A145-E198-47A4-9380-3A77426542F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BSBingoWEB", "BSBingoWEB\BSBingoWEB.csproj", "{209D7282-0BBB-43A9-968B-30B00CF553E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0999A145-E198-47A4-9380-3A77426542F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0999A145-E198-47A4-9380-3A77426542F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0999A145-E198-47A4-9380-3A77426542F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0999A145-E198-47A4-9380-3A77426542F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{209D7282-0BBB-43A9-968B-30B00CF553E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{209D7282-0BBB-43A9-968B-30B00CF553E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{209D7282-0BBB-43A9-968B-30B00CF553E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{209D7282-0BBB-43A9-968B-30B00CF553E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
